@@ -1,14 +1,7 @@
-  # FocusDuo v1.0.0
+# FocusDuo v1.0.1 
 
-  Native macOS app to focus on your top 2 tasks.
+## Fixed
+- Component depth (z-index) issue that caused unintended overlap and click-through behavior in some views.
 
-  ## Features
-  - Visual task prioritization
-  - Pomodoro timer (7 sound themes)
-  - Always on top mode
-  - **Premium** ($4.99): Edit, Import/Export, 50 tasks
-
-  ## Install
-  Download FocusDuo-1.0.0.dmg → Drag to Applications
-
-  Get Premium: [focus-duo.com](https://www.focus-duo.com/)
+## Improved
+- Scroll control: smoother and more predictable scrolling behavior across lists and panels.
